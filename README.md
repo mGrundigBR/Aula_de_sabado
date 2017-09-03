@@ -1,12 +1,4 @@
 # Python
 
-Alo teste aeaeaeaeaeaaeae
-
-
-Alo teste aeaeaeaeaeaaeae
-
-
-Alo teste aeaeaeaeaeaaeae
-
-
-better now?
+Lista de exercicios:
+* https://wiki.python.org.br/ListaDeExercicios 

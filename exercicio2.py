@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 
-x = input("Escreva um numero")
+x = input("Digite um numero: ")
 
 print("O numero informado foi " + x ".")

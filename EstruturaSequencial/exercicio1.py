@@ -1,2 +1,3 @@
-# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+#!/usr/bin/env python
 
+print("Alo mundo")

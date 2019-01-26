@@ -3,7 +3,6 @@
 #exercicio 1 
 print("Alo mundo")
 
-
 #exercicio 2
 x = raw_input("Digite um numero: ")
 print("O numero informado foi %s" % (x))
@@ -31,8 +30,6 @@ area_circulo = 3.14 * float(raio)
 print("A area do circulo eh: " + str(area_circulo))
 
 #exercicio 7
-
-
 
 #exercicio 8
 
